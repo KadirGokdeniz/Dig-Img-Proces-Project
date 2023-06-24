@@ -37,3 +37,6 @@ This project focuses on applying various digital image processing techniques to 
 If you decide to download and use the program on your computer, you will need to update the file paths of the photos accordingly. The directory named `1` contains the photos used for modifications.
 
 Feel free to explore the project and experiment with different filters and sensitivity values!
+
+## Contact
+- For any inquiries or questions, please feel free to contact me at kadirqokdeniz@hotmail.com.

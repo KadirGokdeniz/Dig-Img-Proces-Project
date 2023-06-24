@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 <h3 align="center">A passionate ML&AI developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin**
-- 🌱 I’m currently learning **Deep Learning**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Kadir Gökdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kadir Gökdeniz" height="30" width="40" /></a>

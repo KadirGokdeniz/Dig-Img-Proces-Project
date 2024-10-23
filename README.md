@@ -1,6 +1,14 @@
 # Digital Image Project With Gui
 This project focuses on applying various digital image processing techniques to a set of five different photos. To run the project, make sure you have the following libraries installed on your computer: numpy, tkinter, and cv2 (OpenCV).
 
+<p align="center">
+  <img src="1.png" alt="Game Interface" width="400"/>
+  <img src="2.png" alt="Level 1" width="400"/>
+  <br>
+  <img src="3.png" alt="Level 2" width="400"/>
+   <img src="4.png" alt="Level 1" width="400"/>
+</p>
+
 ## Installation
 
 1. Install numpy library:
